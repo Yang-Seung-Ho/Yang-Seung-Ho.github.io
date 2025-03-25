@@ -16,6 +16,7 @@ tags:
   - typescript
   - lottie
   - 오픈소스
+publish: false
 ---
 
 ## 📝 서론
