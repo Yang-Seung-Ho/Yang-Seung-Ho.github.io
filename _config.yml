@@ -1,6 +1,8 @@
 # The Site Configuration
 # 커밋 메시지 예시 아래
 # chore(config): update _config.yml
+# 실행
+# bundle exec jekyll serve
 # Import the theme
 theme: jekyll-theme-chirpy
 
