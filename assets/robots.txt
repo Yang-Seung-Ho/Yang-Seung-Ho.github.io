@@ -1,10 +1,10 @@
 ---
 permalink: /robots.txt
-# The robots rules
+layout: null
 ---
 
 User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: {{ '/sitemap.xml' | absolute_url }}
+Sitemap: https://yang-seung-ho.github.io/sitemap.xml
