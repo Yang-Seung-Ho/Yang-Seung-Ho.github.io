@@ -241,6 +241,6 @@ jekyll_compose:
 url: "https://yang-seung-ho.github.io"
 plugins:
   - jekyll-sitemap
-plugins:
+  - jekyll-paginate
   - jekyll-seo-tag
 
