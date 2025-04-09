@@ -16,3 +16,5 @@ gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
 # 젬 플러그인
 gem 'jekyll-compose', group: [:jekyll_plugins]
 gem 'jekyll-seo-tag'
+gem 'jekyll-sitemap'
+gem 'jekyll-feed'
