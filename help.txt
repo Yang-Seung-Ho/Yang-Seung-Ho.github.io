@@ -1,0 +1,17 @@
+새 포스트 생성
+bundle exec jekyll post "My New Post"
+
+새 초안 생성
+bundle exec jekyll draft "My Draft Post"
+
+초안 -> 포스트
+bundle exec jekyll publish _drafts/my-draft-post.md
+
+포스트 -> 초안
+bundle exec jekyll publish _drafts/my-draft-post.md --date 2025-03-24
+
+커밋 메시지 예시 아래
+chore(config): update _config.yml
+
+실행
+bundle exec jekyll serve
