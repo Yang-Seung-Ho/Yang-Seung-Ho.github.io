@@ -5,6 +5,7 @@ date: '2025-03-27 11:43:43 +0900'
 categories:
   - Dev
   - FE
+    - SVG Animate
 tags:
   - react
   - svg
