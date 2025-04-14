@@ -4,8 +4,7 @@ title: SVG animate 오픈소스 프로젝트 만들기(5) - Flip 애니메이션
 date: '2025-04-01 16:31:47 +0900'
 categories:
   - Dev
-  - FE
-    - SVG Animate
+  - SVG Animate
 tags:
   - react
   - svg

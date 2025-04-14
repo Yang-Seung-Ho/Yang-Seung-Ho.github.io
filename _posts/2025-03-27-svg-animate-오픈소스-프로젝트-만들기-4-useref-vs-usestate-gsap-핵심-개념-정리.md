@@ -4,8 +4,7 @@ title: SVG animate 오픈소스 프로젝트 만들기(4) - useRef vs useState, 
 date: '2025-03-27 11:43:43 +0900'
 categories:
   - Dev
-  - FE
-    - SVG Animate
+  - SVG Animate
 tags:
   - react
   - svg
