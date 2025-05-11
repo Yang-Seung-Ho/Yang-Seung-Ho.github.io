@@ -7,7 +7,6 @@ categories:
   - SVG Animate
 
 tags:
-  - react
   - SVG animate 오픈소스 프로젝트 만들기
   - svg
   - gsap
@@ -195,7 +194,13 @@ import { ReactComponent as CustomSvg } from "../assets/triangle.svg";
 
 function Rotate() {
   return (
-    <div style={{ padding: "50px", textAlign: "center", height: "150vh" }}>
+    {% raw %}
+style={{
+  width: "100px",
+  height: "100px",
+  backgroundColor: "skyblue",
+  margin: "50px auto",
+}}
       <h2>자동 회전</h2>
       <SvgRotate trigger="auto" />
 
@@ -207,7 +212,7 @@ function Rotate() {
 
       <h2>스크롤 시 회전 + 커스텀 SVG</h2>
       <SvgRotate trigger="scroll" svg={CustomSvg} rotation={360} />
-    </div>
+    {% endraw %}
   );
 }
 

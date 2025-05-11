@@ -64,6 +64,7 @@ const Box: React.FC = () => {
   }, []);
 
   return (
+    {% raw %}
     <div
       ref={boxRef}
       style={{
@@ -75,6 +76,7 @@ const Box: React.FC = () => {
     >
       Box
     </div>
+    {% endraw %}
   );
 };
 

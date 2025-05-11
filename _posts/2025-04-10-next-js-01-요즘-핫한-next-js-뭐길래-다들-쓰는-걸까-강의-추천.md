@@ -8,8 +8,8 @@ categories:
   - Next.js
 tags:
   - Next.js
+  - react
   - 프론트엔드
-  - React
   - 강의추천
   - 입문
   - App Router
