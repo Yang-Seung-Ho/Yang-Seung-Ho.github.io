@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Next.js] 04 - Next.js에서 Tailwind CSS 설정하고 사용하는 방법 정리"
-date: 2025-05-11 18:48 +0900
+date: 2025-05-11 18:00 
 description: Next.js 프로젝트에 Tailwind CSS를 설정하는 방법부터 유틸리티 클래스 사용까지, 스타일링을 빠르게 시작하는 법을 정리했다.
 categories:
   - Dev
@@ -26,15 +26,6 @@ Tailwind는 클래스 기반의 유틸리티 퍼스트 CSS 프레임워크로,
 ---
 
 ## ⚙️ Tailwind CSS 설치 방법 (with Next.js)
-
-### 1. 프로젝트 생성
-
-```bash
-npx create-next-app@latest my-next-tailwind-app
-cd my-next-tailwind-app
-```
-
----
 
 
 ### 1. 프로젝트 생성
