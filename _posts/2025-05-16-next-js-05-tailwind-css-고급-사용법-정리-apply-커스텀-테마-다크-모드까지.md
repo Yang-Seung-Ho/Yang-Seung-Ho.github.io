@@ -12,8 +12,7 @@ tags:
   - 스타일링
   - 프론트엔드
   - CSS
-  - 개발환경
-  - apply
+  - 개발환경  
 published: true
 ---
 ## 기존 CSS의 불편함과 Tailwind의 개선점
