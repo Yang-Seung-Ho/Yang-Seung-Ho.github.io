@@ -13,8 +13,6 @@ tags:
   - 프론트엔드
   - CSS
   - 개발환경
-  - 다크모드
-  - 커스텀 테마
   - apply
 published: true
 ---
